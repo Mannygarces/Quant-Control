@@ -1,6 +1,4 @@
-			else if (State == State.Configure)
-			{
-				  // List of hardcoded authorized Machine IDs
+			// List of hardcoded authorized Machine IDs
 		        List<string> authorizedMachineIds = new List<string> { "2FE617939206E05EE23F8BE889B419AD", "E0351A6D59677612A2D88AA18BEC0321", "ID3" }; // Replace ID1, ID2, etc. with actual Machine IDs
 		
 		        // Get the current Machine ID
